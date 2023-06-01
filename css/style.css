@@ -56,6 +56,7 @@ button{
 .section-title{
   text-transform: uppercase;
   font-weight: 400;
+  font-size: 16px;
 }
 
 body{
@@ -185,6 +186,7 @@ body{
 .features__title{
   flex-basis: 300px;
   padding-right: 20px;
+  
 }
 
 .features__text{
@@ -538,9 +540,10 @@ margin-bottom: 10px;
 
 .contacts__title {
   font-size: 24px;
-  line-height: 33px;
+  line-height: 28px;
   color: #070707;
   margin-bottom: 10px;
+  text-transform: none;
 }
 
 .contacts__inner {
